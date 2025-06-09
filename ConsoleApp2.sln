@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp2", "ConsoleApp2\ConsoleApp2.csproj", "{F26E0BEA-17B6-4BC8-818F-6951BF2842BE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Files", "Files", "{30EF6578-CD53-437C-982E-C799E423ECDD}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+		sql-script.sql = sql-script.sql
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F26E0BEA-17B6-4BC8-818F-6951BF2842BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F26E0BEA-17B6-4BC8-818F-6951BF2842BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F26E0BEA-17B6-4BC8-818F-6951BF2842BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F26E0BEA-17B6-4BC8-818F-6951BF2842BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
